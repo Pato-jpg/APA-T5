@@ -141,8 +141,12 @@ Para verificar el correcto funcionamiento del código, se han realizado pruebas 
 **1. Pruebas completadas con éxito:**
 ![Pruebas completadas](1.png)
 
+
+
 **2. Audios en el programa:**
 ![Programa](2.png)
+
+
 
 **3. Audios en mi pc:**
 ![PC](3.png)
