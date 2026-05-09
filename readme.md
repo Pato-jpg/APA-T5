@@ -7,7 +7,7 @@ Este proyecto consiste en una biblioteca de funciones en Python para manipular a
 
 ---
 
-### Código Desarrollado
+# Código Desarrollado
 
 
 ## Funciones auxiliares de cabecera.
